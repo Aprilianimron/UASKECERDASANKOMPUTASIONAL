@@ -1,5 +1,5 @@
 # UAS Kecerdasan Komputasional
 
-## Nama		: Rizal Akbar Fitrianto
-## NIM		: 23420001
+## Nama		: aprilian imron mudzakir
+## NIM		: 23420024
 ## Prodi	: Teknik Informatika 20 B
